@@ -13,10 +13,13 @@ Data preprocessing, which includes stopword removal, tokenization, and text norm
 - **Abstractive Summarization**: Using Hugging Face's **T5** transformer model for generating summaries.
 - **Data Preprocessing**: Includes text cleaning, tokenization, stopword removal, and sentence segmentation.
 
+### To find the dataset externally:
+visit this link : [https://www.kaggle.com/datasets/benhamner/nips-papers/data?select=papers.csv]
+
 ## Instructions to Run the Code
 
 ### 1. Install Dependencies
 You need to install the required libraries to run the project. Use the following commands to install the dependencies:
 
-### To find the dataset externally:
-visit this link : [https://www.kaggle.com/datasets/benhamner/nips-papers/data?select=papers.csv]
+```bash
+pip install pandas nltk spacy transformers torch
