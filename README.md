@@ -18,7 +18,5 @@ Data preprocessing, which includes stopword removal, tokenization, and text norm
 ### 1. Install Dependencies
 You need to install the required libraries to run the project. Use the following commands to install the dependencies:
 
-```bash
-pip install pandas nltk spacy transformers torch
 ### To find the dataset externally:
 visit this link : [https://www.kaggle.com/datasets/benhamner/nips-papers/data?select=papers.csv)
