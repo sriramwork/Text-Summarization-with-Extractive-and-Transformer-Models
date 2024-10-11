@@ -19,4 +19,4 @@ Data preprocessing, which includes stopword removal, tokenization, and text norm
 You need to install the required libraries to run the project. Use the following commands to install the dependencies:
 
 ### To find the dataset externally:
-visit this link : [https://www.kaggle.com/datasets/benhamner/nips-papers/data?select=papers.csv)
+visit this link : [https://www.kaggle.com/datasets/benhamner/nips-papers/data?select=papers.csv]
