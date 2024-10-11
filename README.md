@@ -4,9 +4,9 @@ Sriram Theerdh Manikyala - NLP Project 1
 
 ## Project Overview
 
-This project focuses on automatic text summarization using both traditional NLP techniques and state-of-the-art transformer models. The objective is to generate concise, meaningful summaries from long research papers while preserving key information and context.
+The goal of this research is to automatically summarize text using both cutting-edge transformer models and conventional NLP techniques. The goal is to distill significant material and context from lengthy research articles into succinct, useful summaries.
 
-The process begins with data preprocessing, including text normalization, tokenization, and stopword removal. Next, the sentences are scored based on token frequency, and a summary is generated using an extractive approach. Finally, a transformer-based model, **T5**, is used for abstractive summarization, creating more fluent and human-like summaries.
+Data preprocessing, which includes stopword removal, tokenization, and text normalization, is the first step in the process. After that, an extractive method is used to score the sentences according to token frequency and produce a summary. Lastly, abstractive summarization is achieved using **T5**, a transformer-based approach that produces summaries that are more natural and human-like.
 
 ### Key Features:
 - **Extractive Summarization**: Using token frequency to score and select sentences.
