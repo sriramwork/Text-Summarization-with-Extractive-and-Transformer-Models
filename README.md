@@ -23,3 +23,4 @@ You need to install the required libraries to run the project. Use the following
 
 ```bash
 pip install pandas nltk spacy transformers torch
+run all cells
